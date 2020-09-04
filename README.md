@@ -1,8 +1,9 @@
-
-
-### Hi there, I'm Taha 🙋‍♂️
-
-## I'm Software Engineering Student 💻
+<h1 align="center"> Hi there, I'm Taha 🙋‍♂️ <h1/>
+<h2 align="center">I'm Software Engineering Student 💻  </h3>
+<p align="center"> 
+<img height="150" src="https://media.giphy.com/media/111ebonMs90YLu/source.gif" />
+</p>
+  
 - 🏫 I'm currently dealing with my school projects
 - 🏃‍♂️ Try to improve myself everyday as much as I can 
 - 📚 I really like learning new technologies and doing research
