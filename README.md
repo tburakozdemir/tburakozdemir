@@ -5,7 +5,7 @@
 </p>
 
 ### Spotify Playing 🎧
-[<img src="novatorem-smoky-delta.vercel.app/api/spotify-playing" alt="Taha Spotify Playing" width="350" />](https://open.spotify.com/user/gvx64fr6974sfs265si051cod)
+[<img src="spotify-now-playing-8ccsp1t4r.vercel.app/api/spotify-playing" alt="Taha Spotify Playing" width="350" />](https://open.spotify.com/user/gvx64fr6974sfs265si051cod)
 
 
 - 🏫 I'm currently dealing with my school projects
