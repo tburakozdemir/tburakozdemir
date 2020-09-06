@@ -4,6 +4,9 @@
 <img height="120" src="https://media.giphy.com/media/111ebonMs90YLu/source.gif" />
 </p>
 
+<h3>Spotify Now Playing 🎧</h5>
+
+
 - 🏫 I'm currently dealing with my school projects
 - 🏃‍♂️ Try to improve myself everyday as much as I can 
 - 📚 I really like learning new technologies and doing research
