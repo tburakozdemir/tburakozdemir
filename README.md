@@ -4,10 +4,12 @@
 <img height="120" src="https://media.giphy.com/media/111ebonMs90YLu/source.gif" />
 </p>
 
+<div align="center">
+
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-now-playing-pi.vercel.app/api/spotify)](https://open.spotify.com/user/gvx64fr6974sfs265si051cod)
 
-
+</div>
 
 - 🏫 I'm currently dealing with my school projects
 - 🏃‍♂️ Try to improve myself everyday as much as I can 
