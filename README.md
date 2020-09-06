@@ -4,7 +4,8 @@
 <img height="120" src="https://media.giphy.com/media/111ebonMs90YLu/source.gif" />
 </p>
 
-<h3>Spotify Now Playing 🎧</h5>
+### Spotify Playing 🎧
+[<img src="novatorem-smoky-delta.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/gvx64fr6974sfs265si051cod)
 
 
 - 🏫 I'm currently dealing with my school projects
