@@ -11,9 +11,9 @@
 
 </div>
 
-- 🏫 I'm currently dealing with my school projects
-- 🏃‍♂️ Try to improve myself everyday as much as I can 
-- 📚 I really like learning new technologies and doing research
+- 🌱   I’m currently learning Mongodb | Express | Cloud Computing
+- 📌   I'm keen to learn backend development
+- 🎓   Unfortunately, I am mainly dealing with my school projects.
 
 ### 📭 Connect with me:
 
@@ -25,17 +25,20 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<code><img height="30" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyYNIJKFXLLXbh4Xso2k3FZR2rPmgT6DctcWDenH2bokZphqDW51d4x9ziJvTfVN--G6s&usqp=CAU"></code>
+<code><img height="30" src="https://icon-library.com/images/icon-java/icon-java-6.jpg"></code>
+<code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8IoRZqctMQKcm2BsdU-adBzCjYF3iqXT-uRTvOMFCkrdU9gpipa99RZZizUMjHRvj8g&usqp=CAU"></code>
+
 </br>
 
 
 ### 🔰 Currently Learning
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</br>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 ---
 <p align="center">
