@@ -45,7 +45,6 @@
 <a href="https://twitter.com/tburak122" target="blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 /></a> 
 <a href="https://www.linkedin.com/in/taha-burak-%C3%B6zdemir/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a> 
 <a target="_blank" href="mailto:tahaburakzdemir1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" height=25/></a>
-<a href="https://instagram.com/tahazdemir12" target="blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25 /></a> 
 <a href="https://www.tahaburakozdemir.com/" target="blank"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tahaburakozdemir.com/" height=25 /></a>
 </p>
 
