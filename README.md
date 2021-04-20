@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Taha 🙋‍♂️ </h1>
 <h3 align="center">I'm Software Engineering Student 💻 </h3>
 <p align="center"> 
-<img height="120" src="https://media.giphy.com/media/111ebonMs90YLu/source.gif" />
+<img height="120" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
 <div align="center">
