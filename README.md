@@ -49,6 +49,6 @@
 <a href="https://www.tahaburakozdemir.com/" target="blank"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://tahaburakozdemir.com/" height=25 /></a>
 </p>
 
-[website]: https://www.tahaburakozdemir.com/
+[website]: https://www.tahaburakzdemir.com/
 [twitter]: https://twitter.com/tburak122
 [linkedin]: https://www.linkedin.com/in/taha-burak-%C3%B6zdemir/
