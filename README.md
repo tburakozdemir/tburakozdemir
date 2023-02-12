@@ -4,13 +4,6 @@
 <img height="120" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
-<div align="center">
-
-### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-pi.vercel.app/api/spotify)](https://open.spotify.com/user/gvx64fr6974sfs265si051cod)
-
-</div>
-
 - 🌱   I’m currently learning Mongodb | Express | Cloud Computing
 - 📌   I'm keen to learn backend development
 - 🎓   Unfortunately, I am mainly dealing with my school projects.
