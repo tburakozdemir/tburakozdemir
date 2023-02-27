@@ -46,14 +46,12 @@
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakraui)&nbsp;
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Graphql](https://img.shields.io/badge/-Graphql-05122A?style=flat&logo=graphql&logoColor=663399)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 
