@@ -28,7 +28,7 @@
   <a href="https://github.com/tburakozdemir" target="_blank">
   <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.tahaburakzdemir.com/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://tahaburakozdemir.netlify.app/" height=25 />
+  <a href="https://tahaburakozdemir.netlify.app/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height=25 />
   <a target="_blank" href="mailto:tahaburakzdemir1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25/></a>
   </a>
 </div>  
