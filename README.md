@@ -1,64 +1,30 @@
 <div align="center">
+    <img src="https://cdn-images-1.medium.com/max/1600/1*jB76MLZjiNhGSQQvxm7LSQ.gif" style="width: 100%; border-radius: 50px;">
+</div>
 
-<img src="https://cdn-images-1.medium.com/max/1600/1*jB76MLZjiNhGSQQvxm7LSQ.gif" style="width: 100%; border-radius: 50px;">
+<h2>👨‍💻 &nbsp;Hi, I am Taha</h2>
 
-</div>  
-  
+<a href="https://app.daily.dev/tburakozdemir"><img src="https://api.daily.dev/devcards/2b836e472f7a4c838fc661801802dbb8.png?r=ciz" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
 
-### <div align="center">I'm Taha, a Fresh Graduate Software Engineer  👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working / learning on 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> 
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"></code>   
-
-- 📌 I'm keen to learn MERN stack development  
-- 🎓 Currently, pursuing master degree in field of image processing  
-
-<br/>  
-
-### 📭 You can reach me:
-
-<div>
-  <a href="https://linkedin.com/in/taha-burak-ozdemir" target="_blank">
-  <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/tburakozdemir" target="_blank">
-  <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://tahaburakozdemir.netlify.app/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height=25 />
-  <a target="_blank" href="mailto:tahaburakzdemir1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25/></a>
-  </a>
-</div>  
-  
-
-</br>
-
-### 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![ChakraUI](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakraui)&nbsp;
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+<p style="max-width: 300px; word-wrap: break-word;">
+  I am currently pursuing a master's degree in the field of image processing. Throughout my journey in computer science, I continuously seek to expand my knowledge and understanding of diverse topics.
+</p>
 
 
-[![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
-[![Editor](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![Editor](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-</br>
+<h2>🛠 &nbsp;Tech Stack</h2>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center; width:100%">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="77" height="77" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="77" height="77" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React icon" width="77" height="77" />
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API icon" width="77" height="77" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java icon" width="77" height="77" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx icon" width="77" height="77" />
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass icon" width="77" height="77" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="77" height="77" />
+</div>
 
- </div>
+<h2>📭 &nbsp;Reach Me</h2>
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/taha-burak-ozdemir)
+[![Website](https://img.icons8.com/fluency/48/000000/domain.png)](https://tahaburakozdemir.netlify.app/)
+[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:tahaburakzdemir1@gmail.com)
