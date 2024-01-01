@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://cdn-images-1.medium.com/max/1600/1*jB76MLZjiNhGSQQvxm7LSQ.gif" style="width: 100%; border-radius: 50px;">
-</div>
 
 <h2>👨‍💻 &nbsp;Hi, I am Taha</h2>
 <a href="https://app.daily.dev/tburakozdemir"><img src="https://github.com/tburakozdemir/tburakozdemir/blob/master/devcard.svg" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
