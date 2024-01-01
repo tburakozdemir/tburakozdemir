@@ -7,8 +7,13 @@
 <a href="https://app.daily.dev/tburakozdemir"><img src="https://api.daily.dev/devcards/2b836e472f7a4c838fc661801802dbb8.png?r=ciz" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
 
 <p style="max-width: 300px; word-wrap: break-word;">
-  I am currently pursuing a master's degree in the field of image processing. Throughout my journey in computer science, I continuously seek to expand my knowledge and understanding of diverse topics.
+  I am currently pursuing a master's degree in the field of image processing. Throughout my journey in computer science, I continuously seek to expand my knowledge and understanding of diverse topics. If you wish to reach out to me, feel free to do so.
 </p>
+
+
+[![Linkedin: TahaBurakOzdemir](https://img.shields.io/badge/-Taha%20Burak%20Özdemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taha-burak-ozdemir/)](https://www.linkedin.com/in/taha-burak-ozdemir/)
+[![Gmail Badge](https://img.shields.io/badge/-Taha%20Burak%20Özdemir-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tahaburakzdemir1@gmail.com)](mailto:tahaburakzdemir1@gmail.com)
+
 
 
 <h2>🛠 &nbsp;Tech Stack</h2>
@@ -22,9 +27,3 @@
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass icon" width="77" height="77" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="77" height="77" />
 </div>
-
-<h2>📭 &nbsp;Reach Me</h2>
-
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/taha-burak-ozdemir)
-[![Website](https://img.icons8.com/fluency/48/000000/domain.png)](https://tahaburakozdemir.netlify.app/)
-[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:tahaburakzdemir1@gmail.com)
