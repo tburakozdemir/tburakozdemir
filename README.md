@@ -3,8 +3,7 @@
 </div>
 
 <h2>👨‍💻 &nbsp;Hi, I am Taha</h2>
-
-<a href="https://app.daily.dev/tburakozdemir"><img src="https://api.daily.dev/devcards/2b836e472f7a4c838fc661801802dbb8.png?r=ciz" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
+<a href="https://app.daily.dev/tburakozdemir"><img src="https://api.daily.dev/devcards/2b836e472f7a4c838fc661801802dbb8.png?r=xua" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
 
 <p style="max-width: 300px; word-wrap: break-word;">
   I am currently pursuing a master's degree in the field of image processing. Throughout my journey in computer science, I continuously seek to expand my knowledge and understanding of diverse topics. If you wish to reach out to me, feel free to do so.
