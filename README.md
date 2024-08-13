@@ -1,5 +1,4 @@
-
-<h2>👨‍💻 &nbsp;Hi, I am Taha</h2>
+<h1 align="center"> &nbsp;Hi :wave:, I am Taha</h1>
 <a href="https://app.daily.dev/tburakozdemir"><img src="https://github.com/tburakozdemir/tburakozdemir/blob/master/devcard.svg" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
 
 <p style="max-width: 300px; word-wrap: break-word;">
@@ -12,7 +11,7 @@
 
 
 
-<h2>🛠 &nbsp;Tech Stack</h2>
+### 🛠 &nbsp;Tech Stack
 <div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center; width:100%">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="77" height="77" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="77" height="77" />
