@@ -1,4 +1,4 @@
-<h1 align="center"> &nbsp;Hi :wave:, I am Taha</h1>
+<h1 align="center"> &nbsp;Hi :wave:, I am Taha Burak</h1>
 <a href="https://app.daily.dev/tburakozdemir"><img src="https://github.com/tburakozdemir/tburakozdemir/blob/master/devcard.svg" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
 
 <p style="max-width: 300px; word-wrap: break-word;">
