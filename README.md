@@ -2,7 +2,7 @@
 <a href="https://app.daily.dev/tburakozdemir"><img src="https://github.com/tburakozdemir/tburakozdemir/blob/master/devcard.svg" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
 
 <p style="max-width: 300px; word-wrap: break-word;">
-  I am currently pursuing a master's degree in the field of image processing. Throughout my journey in computer science, I continuously seek to expand my knowledge and understanding of diverse topics. If you wish to reach out to me, feel free to do so.
+As a passionate Ph.D. student and research assistant in Computer Engineering, I am dedicated to advancing my expertise in software development, data science, and applied research. Currently, my research focuses on SAR data analysis and image processing, where I strive to develop innovative methods for solving complex real-world problems through both academic research and practical implementation. I am eager to collaborate on research projects, data-driven solutions, and innovative technologies that push the boundaries of computer engineering.
 </p>
 
 
