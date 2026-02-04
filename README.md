@@ -7,7 +7,7 @@ As a passionate Ph.D. student and research assistant in Computer Engineering, I 
 
 
 [![Linkedin: TahaBurakOzdemir](https://img.shields.io/badge/-Taha%20Burak%20Özdemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taha-burak-ozdemir/)](https://www.linkedin.com/in/taha-burak-ozdemir/)
-[![Gmail Badge](https://img.shields.io/badge/-Taha%20Burak%20Özdemir-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tahaburakzdemir1@gmail.com)](mailto:tahaburakzdemir1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Taha%20Burak%20Özdemir-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tahaburak@tahaburakozdemir.com)](mailto:tahaburak@tahaburakozdemir.com)
 
 
 
